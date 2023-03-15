@@ -7,6 +7,7 @@ import PhotoBox from '../PhotoBox';
 
 
 const AboutAuthorBlock = () => {
+    
    const decor = {
     display: 'flex',
     justifyContent: 'flex-start',

@@ -3,27 +3,28 @@
   margin: 20px auto;
   display: flex;
   justify-content: space-between;
-  align-items:center;
-  font-family: 'Inter';
+  align-items: center;
+  font-family: "Inter";
 }
-.info{
-    display: flex;
-    align-items: center;
-    gap: 40px;
+.info {
+  display: flex;
+  align-items: center;
+  gap: 40px;
 }
-.icons{
-    display: flex;
-    gap: 10px;
+.icons {
+  display: flex;
+  gap: 10px;
 }
-.icon_box{
-    display: flex;
-    justify-content: center;
-    align-items:center;
-    width: 45px;
-    aspect-ratio: 1;
-    background: rgba(255, 255, 255, 1);
+.icon_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45px;
+  aspect-ratio: 1;
+  background: rgba(255, 255, 255, 1);
+  cursor: pointer;
 }
-.icon_box i{
-    color: black;
-    font-size: 20px;
+.icon_box i {
+  color: black;
+  font-size: 20px;
 }

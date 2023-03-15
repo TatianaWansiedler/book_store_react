@@ -35,8 +35,8 @@
   color: #969aa0;
 }
 .decor {
-    display: flex;
-    gap: 10px;
+  display: flex;
+  gap: 10px;
 }
 .text {
   font-family: "Cardo";

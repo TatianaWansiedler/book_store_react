@@ -1,5 +1,6 @@
 import React from 'react';
 import s from './style.module.css'
+
 const ArticleItem = ({img, title, descr, date}) => {
     return (
         <div className={s.item}>
