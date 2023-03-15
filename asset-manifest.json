@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/book_store_react/static/css/main.242a9c3f.css",
-    "main.js": "/book_store_react/static/js/main.48855816.js",
-    "static/media/image.png": "/book_store_react/static/media/image.18ed7cd6d84d8209e0b9.png",
-    "static/media/author.png": "/book_store_react/static/media/author.c2dbdfc9fd0229f86fe6.png",
-    "static/media/book.png": "/book_store_react/static/media/book.968b113edc6f613b6b6a.png",
-    "static/media/3.png": "/book_store_react/static/media/3.1be015a2bb666bde039e.png",
-    "static/media/2.png": "/book_store_react/static/media/2.7bc34e7f2845ac0e9bba.png",
-    "static/media/1.png": "/book_store_react/static/media/1.83765db4741ddbce410d.png",
-    "static/media/book1.png": "/book_store_react/static/media/book1.f0301d0e70f4c5be1da6.png",
-    "static/media/book_cover.png": "/book_store_react/static/media/book_cover.e0ae14274817bde6471d.png",
-    "static/media/book2.png": "/book_store_react/static/media/book2.4aca5564c49c25a10b64.png",
-    "static/media/404page.png": "/book_store_react/static/media/404page.0f818f31816f9f557a2c.png",
-    "static/media/comp4.png": "/book_store_react/static/media/comp4.9dbf0f1bebee9cb772c1.png",
-    "index.html": "/book_store_react/index.html",
-    "main.242a9c3f.css.map": "/book_store_react/static/css/main.242a9c3f.css.map",
-    "main.48855816.js.map": "/book_store_react/static/js/main.48855816.js.map"
+    "main.css": "/static/css/main.242a9c3f.css",
+    "main.js": "/static/js/main.a41cdff1.js",
+    "static/media/image.png": "/static/media/image.18ed7cd6d84d8209e0b9.png",
+    "static/media/author.png": "/static/media/author.c2dbdfc9fd0229f86fe6.png",
+    "static/media/book.png": "/static/media/book.968b113edc6f613b6b6a.png",
+    "static/media/3.png": "/static/media/3.1be015a2bb666bde039e.png",
+    "static/media/2.png": "/static/media/2.7bc34e7f2845ac0e9bba.png",
+    "static/media/1.png": "/static/media/1.83765db4741ddbce410d.png",
+    "static/media/book1.png": "/static/media/book1.f0301d0e70f4c5be1da6.png",
+    "static/media/book_cover.png": "/static/media/book_cover.e0ae14274817bde6471d.png",
+    "static/media/book2.png": "/static/media/book2.4aca5564c49c25a10b64.png",
+    "static/media/404page.png": "/static/media/404page.0f818f31816f9f557a2c.png",
+    "static/media/comp4.png": "/static/media/comp4.9dbf0f1bebee9cb772c1.png",
+    "index.html": "/index.html",
+    "main.242a9c3f.css.map": "/static/css/main.242a9c3f.css.map",
+    "main.a41cdff1.js.map": "/static/js/main.a41cdff1.js.map"
   },
   "entrypoints": [
     "static/css/main.242a9c3f.css",
-    "static/js/main.48855816.js"
+    "static/js/main.a41cdff1.js"
   ]
 }
