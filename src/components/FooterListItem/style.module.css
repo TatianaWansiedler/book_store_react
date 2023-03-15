@@ -1,0 +1,16 @@
+.item{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.item i {
+  color: #ffca42;
+  font-size: 20px;
+}
+.item p {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 31px;
+  color: #b4c7e7;
+}

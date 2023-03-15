@@ -1,0 +1,12 @@
+.ord_btn {
+  height: 66px;
+  min-width: 222px;
+  background: #ffca42;
+  border: 2px solid #ffca42;
+  font-family: "Cardo";
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 28px;
+  color: #1b3764;
+  cursor: pointer;
+}

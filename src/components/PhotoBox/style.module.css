@@ -1,0 +1,13 @@
+.photo_box {
+  position: relative;
+  min-width: 545px;
+  height: 640px;
+  border: 10px solid #ffca42;
+}
+.photo_box img {
+  width: 545px;
+  height: 640px;
+  position: absolute;
+  left: -8%;
+  top: -8%;
+}

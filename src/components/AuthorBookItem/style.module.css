@@ -1,0 +1,54 @@
+.item {
+  display: flex;
+  gap: 30px;
+}
+.item img {
+  width: 285px;
+  height: 380px;
+}
+.info {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-top: 50px;
+}
+.title {
+  font-family: "Cardo";
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  color: #1b3764;
+}
+.price {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 33px;
+  color: #ffca42;
+}
+.descr {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 28px;
+  color: #969aa0;
+}
+.decor {
+    display: flex;
+    gap: 10px;
+}
+.text {
+  font-family: "Cardo";
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #1b3764;
+}
+.circle {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #ffca42;
+  margin-top: 5px;
+}

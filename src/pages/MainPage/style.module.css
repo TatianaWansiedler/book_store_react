@@ -1,0 +1,63 @@
+.container {
+  max-width: 1300px;
+  margin: 90px auto;
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+  font-family: "Cardo";
+}
+.description {
+  width: 500px;
+  align-self: center;
+}
+.greeting {
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 36px;
+  letter-spacing: 1.2px;
+  text-transform: capitalize;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 78px;
+  letter-spacing: 1.3px;
+  color: #ffffff;
+}
+.text {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #b4c7e7;
+  margin: 20px 0;
+}
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 0;
+}
+.actions a {
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  letter-spacing: 0.38px;
+  text-transform: capitalize;
+  padding: 5px;
+  border-bottom: 1px solid rgba(255, 255, 255, 1);
+}
+.book_info{
+  display: flex;
+  justify-content: space-between;
+}
+.image {
+  height: 800px;
+  width: 592px;
+}
+.image img {
+  height: 800px;
+  width: 592px;
+}

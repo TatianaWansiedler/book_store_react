@@ -1,0 +1,28 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 300px;
+}
+.logo {
+  height: 100px;
+  width: 189px;
+}
+.title {
+  font-family: "Cardo";
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #1b3764;
+  text-align: center;
+}
+.descr {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 28px;
+  color: #969aa0;
+  text-align: center;
+}

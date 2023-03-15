@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: rgba(246, 248, 252, 1);
+}
+html {
+  background: rgba(27, 55, 100, 1);
+  width: 100%;
+  margin: auto;
+}
+.body {
+  width: 100%;
+}

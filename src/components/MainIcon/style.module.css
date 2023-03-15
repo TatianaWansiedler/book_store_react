@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  gap: 10px;
+}
+.title {
+  font-size: 26px;
+  font-weight: 400;
+}
+.container svg {
+  height: 28px;
+  width: 24.5px;
+}

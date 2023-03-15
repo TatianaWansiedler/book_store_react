@@ -1,0 +1,13 @@
+.nav_bar {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+.nav_bar a {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+}
+.active{
+    color: #FFCA42;
+}
